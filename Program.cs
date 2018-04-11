@@ -15,6 +15,7 @@ namespace Primeirogit
          valor1 = double.Parse(Console.ReadLine());
          Console.WriteLine("entre com outro valor");
          valor2 = double.Parse(Console.ReadLine());
+         resultado = valor1 + valor2;
          
         }
     }
