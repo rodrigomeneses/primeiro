@@ -16,7 +16,7 @@ namespace Primeirogit
          Console.WriteLine("entre com outro valor");
          valor2 = double.Parse(Console.ReadLine());
          resultado = valor1 + valor2;
-         
+         Console.WriteLine("o resultado da soma é "+resultado);
         }
     }
 }
